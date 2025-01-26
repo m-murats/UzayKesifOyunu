@@ -1,2 +1,2 @@
 # UzayKesifOyunu
- Bilgisayar Programlama 1 (Java) - OOP temelli Bitirme Projesi
+ Bilgisayar Programlama 1 Güz (Java) - OOP temelli Bitirme Projesi
