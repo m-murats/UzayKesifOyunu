@@ -1,8 +1,7 @@
 package uko;
 
 /* 
-MAHMUT MURAT ŞANLI - 2321021016
-MUHAMMED ÇAYHAN - 2321021051
+@author Murat
 */
 
 import java.util.Scanner;
